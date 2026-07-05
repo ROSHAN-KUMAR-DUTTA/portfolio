@@ -28,5 +28,5 @@ A minimalist, high-performance portfolio website showcasing full-stack web appli
 
 Clone the repository:
 ```bash
-git clone [https://github.com/your-username/portfolio.git](https://github.com/your-username/portfolio.git)
+git clone [https://github.com/ROSHAN-KUMAR-DUTTA/portfolio.git](https://github.com/ROSHAN-KUMAR-DUTTA/portfolio.git)
 cd portfolio
